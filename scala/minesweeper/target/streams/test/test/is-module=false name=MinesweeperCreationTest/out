@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mMinesweeperCreationTest:[0m[0m
-[0m[[0minfo[0m] [0m[32m- Test create board[0m[0m
-[0m[[0minfo[0m] [0m[32m- columns is not other than 2)[0m[0m
-[0m[[0minfo[0m] [0m[31m- Printing *** FAILED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  org.scalatest.TestFailedException was thrown. (MinesweeperCreationTest.scala:26)[0m[0m
